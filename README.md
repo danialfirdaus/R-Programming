@@ -4,13 +4,13 @@ Search for terminal
 Type in command “github clone (copy paste from github account repository)
 *“pwd”-print working directory
 
-*“cd”- change directory
+* “cd”- change directory
 
-*“ls”- list directory
+* “ls”- list directory
 
-*“cd ..”- gto go to one folder up
+* “cd ..”- gto go to one folder up
 
-*“cd (type folder name in here)”- to go to one folder in
+* “cd (type folder name in here)”- to go to one folder in
 
 
 #To do changes locally
